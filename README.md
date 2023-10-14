@@ -1,9 +1,9 @@
-# HumanBenchmark
+# CmlHumanBenchmark
 Create a computer that can beat humans at every human benchmark.  
 # Progress
-Done so far:  
-* Reaction Time Test
-To Do :
+### Done so far:  
+* Reaction Time Test  
+### To Do:  
 * Sequence Memory
 * Aim Trainer
 * Number Memory
